@@ -53,10 +53,10 @@ Run ```eval.py``` to evaluate the trained models on f30k or coco.
 
 
 
-|Datasets| Interaction type |I2T R@1|I2T R@5|T2I R@1|T2I R@5|Model checkpoint|
-|:---:||:---:|:---:|:---:|:---:|:---:|
-|Flickr30K | |84.3|97.9|68.9|90.3|[Here](https://drive.google.com/drive/)|
-|MSCOCO-1K | |83.4|97.5|69.1|92.2|[Here](https://drive.google.com/drive/)|
+|Datasets| |I2T R@1|I2T R@5|T2I R@1|T2I R@5|Model checkpoint|
+|:---:| |:---:|:---:|:---:|:---:|:---:|
+|Flickr30K | |84.3|97.9|68.9|90.3|[Here](https://drive.google.com/drive/folders/1TXd9kBTvKKsx3fBFXuTCpAshcnZ2PKKn?usp=drive_link)()|
+|MSCOCO-1K | |83.4|97.5|69.1|92.2|[Here](https://drive.google.com/drive/folders/1Dy6eIWEl6sn7CmrcwZn2lArTGkvCjT43?usp=drive_link)|
 
 
 
